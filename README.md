@@ -4,6 +4,13 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 
 ## ROADMAP BACKEND:
 - https://roadmap.sh/backend
+  -   https://www.youtube.com/watch?v=eulnSXkhE7I   
+  
+  -   **DataBases**
+      -   Document MongoDB, CouchDB
+      -   Column DBs Cassandra
+      -   Time series InfluxDB, TimescaleDB
+      -   Realtime databases
 
 <br>
 
