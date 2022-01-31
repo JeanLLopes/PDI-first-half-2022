@@ -30,7 +30,7 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 - [X] Como Mentir com Estatística
 - [ ] O preço é o Lucro, de Peter Hill
 - [ ] A era do Capitalismo de Vigilância, de Shoshana Zuboff
-- [ ] O Futuro do dinheiro
+- [X] O Futuro do dinheiro
 - [ ] Six faces of globalization
 - [ ] Noises - Ruidos
 - [ ] Antifragil
