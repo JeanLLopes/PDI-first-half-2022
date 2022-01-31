@@ -44,7 +44,7 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 - [ ] https://lnkd.in/gaBEnk9g (Team Topologies: Organizing Business and Technology Teams for Fast Flow)
 - [ ] https://lnkd.in/gitV2YfB (Lean Enterprise: How High Performance Organizations Innovate at Scale)
 - [ ] https://lnkd.in/g6gqugCQ (The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture)
-- [ ] [ ] https://lnkd.in/gdEGKq9s (CEH Certified Ethical Hacker All-in-One Exam Guide)
+- [ ] https://lnkd.in/gdEGKq9s (CEH Certified Ethical Hacker All-in-One Exam Guide)
 - [ ] https://lnkd.in/gExH8i-6 (Infrastructure as Code: Managing Servers in the Cloud)
 - [ ] https://lnkd.in/guxq_qbp (Don't Feed the Monkey Mind: How to Stop the Cycle of Anxiety, Fear, and Worry)
 - [ ] https://lnkd.in/gZ3XPDgY (API Strategy for Open Banking: Insights and case studies from leading open banking experts and API strategists.)
