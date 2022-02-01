@@ -18,7 +18,8 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 - https://roadmap.sh/devops
   - https://livro.descomplicandodocker.com.br/chapters/chapter_00.html
   - [12 factor App](https://12factor.net/pt_br/)
-    - [Video](https://www.youtube.com/watch?v=gpJgtED36U4&list)   
+    - [Video](https://www.youtube.com/watch?v=gpJgtED36U4&list)
+  - [AWS Training](https://digitalcloud.training/aws-sysops-administrator-associate-free-practice-exam-questions/)   
 
 <br>
 
