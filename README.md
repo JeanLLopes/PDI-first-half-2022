@@ -20,6 +20,7 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
   - [12 factor App](https://12factor.net/pt_br/)
     - [Video](https://www.youtube.com/watch?v=gpJgtED36U4&list)
   - [AWS Training](https://digitalcloud.training/aws-sysops-administrator-associate-free-practice-exam-questions/)   
+  - [Certificações Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 
 <br>
 
