@@ -26,6 +26,9 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 
 ## Awesome Software Architecture
 - https://github.com/mehdihadeli/awesome-software-architecture/tree/main/docs
+- [Certificações](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI):   
+  - Azure Administrator Associate 
+    - https://docs.microsoft.com/pt-br/learn/certifications/azure-administrator/   
 
 <br>
 
