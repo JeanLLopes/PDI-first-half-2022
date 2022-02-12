@@ -40,7 +40,7 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 - [X] O Futuro do dinheiro
 - [ ] Six faces of globalization
 - [ ] Noises - Ruidos
-- [ ] Antifragil
+- [X] Antifragil
 - [ ] Rapido devagar
 - [ ] A era do capitalismo vigilante
 - [ ] https://lnkd.in/g5bhtRZG (What Every Programmer Should Know About Memory)
