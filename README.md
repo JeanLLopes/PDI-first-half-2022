@@ -41,7 +41,7 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 - [ ] Six faces of globalization
 - [ ] Noises - Ruidos
 - [X] Antifragil
-- [ ] Rapido devagar
+- [X] Rapido devagar
 - [ ] A era do capitalismo vigilante
 - [ ] https://lnkd.in/g5bhtRZG (What Every Programmer Should Know About Memory)
 - [ ] https://lnkd.in/ggvpRwAm (A Sociedade do Cansaço)
