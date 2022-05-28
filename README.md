@@ -3,7 +3,8 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 
 
 ## ROADMAP BACKEND:
-  -   [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)   
+  - [ ] [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)  
+  - [X] [Kafka message broker - kafka-experiences-learn](https://github.com/JeanLLopes/kafka-experiences-learn)
 
 <br>
 
