@@ -3,7 +3,7 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 
 
 ## ROADMAP BACKEND:
-  - [ ] [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)  
+  - [X] [Git and GitHub - CS50 Beyond 2019](https://www.youtube.com/watch?v=eulnSXkhE7I)  
   - [X] [Kafka message broker - kafka-experiences-learn](https://github.com/JeanLLopes/kafka-experiences-learn)
 
 <br>
@@ -22,5 +22,5 @@ Plano de Desenvolvimento Individual para o primeiro semestre de 2022
 - [X] Antifragil
 - [X] Rapido devagar
 - [X] O Futuro do dinheiro
-- [ ] [Building Evolutionary Architectures: Support Constant Change](https://lnkd.in/gNjDC7mT)
+- [X] [Building Evolutionary Architectures: Support Constant Change](https://lnkd.in/gNjDC7mT)
 
